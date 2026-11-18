@@ -1,0 +1,38 @@
+1|Jeju|Airport|Jeju Airport|Start|1|0|100
+2|Jeju|Dongmun Market|Jeju-si|Food|2|15|90
+3|Jeju|Hamdeok Beach|Jeju-si|Sightseeing|3|35|85
+4|Seoul|Gyeongbokgung|Jongno-gu|Sightseeing|1|8|92
+5|Seoul|Hongdae Cafe|Mapo-gu|Food|2|20|80
+6|japan|Tokyo Tower|Minato, Tokyo|Sightseeing|2|12|95
+7|japan|Sensoji Temple|Asakusa, Tokyo|Culture|1|9|92
+8|japan|Shibuya Crossing|Shibuya, Tokyo|Landmark|3|18|97
+9|japan|Fushimi Inari|Kyoto|Culture|2|35|94
+10|japan|Dotonbori|Osaka|Food|4|41|91
+11|japan|Arashiyama|Kyoto|Nature|5|48|88
+12|jeju|Jeju Airport|Jeju Airport|Start|1|0|100
+13|jeju|Seongsan Ilchulbong|Seogwipo|Nature|1|47|96
+14|jeju|Udo Island|Jeju|Island|4|55|89
+15|jeju|Osulloc Tea Museum|Seogwipo|Cafe|5|39|84
+16|seoul|Hongdae Cafe Street|Mapo-gu|Food|2|20|88
+17|seoul|N Seoul Tower|Yongsan-gu|Landmark|3|14|91
+18|seoul|Seongsu Cafe|Seongdong-gu|Cafe|4|16|87
+19|seoul|Lotte World|Songpa-gu|Theme Park|5|28|89
+20|seoul|DDP|Jung-gu|Design|3|11|83
+21|busan|Haeundae Beach|Haeundae-gu|Beach|1|10|94
+22|busan|Gamcheon Culture Village|Saha-gu|Culture|2|22|90
+23|busan|Gwangalli Beach|Suyeong-gu|Beach|3|14|91
+24|busan|Jagalchi Market|Jung-gu|Food|4|18|87
+25|busan|Taejongdae|Yeongdo-gu|Nature|5|33|86
+26|busan|Songdo Cable Car|Seo-gu|Activity|4|25|84
+27|china|The Bund|Shanghai|Landmark|1|8|93
+28|china|Yu Garden|Shanghai|Culture|2|12|89
+29|china|Great Wall|Beijing|History|1|58|97
+30|china|Forbidden City|Beijing|History|2|21|95
+31|china|West Lake|Hangzhou|Nature|4|47|88
+32|china|Chengdu Panda Base|Chengdu|Nature|5|39|91
+33|australia|Sydney Opera House|Sydney|Landmark|1|10|97
+34|australia|Bondi Beach|Sydney|Beach|2|18|92
+35|australia|Great Barrier Reef|Queensland|Nature|1|70|98
+36|australia|Queen Victoria Market|Melbourne|Food|4|22|86
+37|australia|Blue Mountains|New South Wales|Nature|3|55|90
+38|australia|Royal Botanic Garden|Sydney|Nature|5|8|84

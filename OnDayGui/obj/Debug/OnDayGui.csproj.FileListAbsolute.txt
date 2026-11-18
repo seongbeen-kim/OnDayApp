@@ -1,0 +1,6 @@
+C:\Users\kimseongbeen\Desktop\OnDayApp\OnDayGui\bin\Debug\OnDayGui.exe
+C:\Users\kimseongbeen\Desktop\OnDayApp\OnDayGui\bin\Debug\OnDayGui.pdb
+C:\Users\kimseongbeen\Desktop\OnDayApp\OnDayGui\obj\Debug\OnDayGui.csproj.AssemblyReference.cache
+C:\Users\kimseongbeen\Desktop\OnDayApp\OnDayGui\obj\Debug\OnDayGui.csproj.CoreCompileInputs.cache
+C:\Users\kimseongbeen\Desktop\OnDayApp\OnDayGui\obj\Debug\OnDayGui.exe
+C:\Users\kimseongbeen\Desktop\OnDayApp\OnDayGui\obj\Debug\OnDayGui.pdb
